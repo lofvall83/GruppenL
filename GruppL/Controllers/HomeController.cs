@@ -19,7 +19,7 @@ namespace GruppL.Controllers
 
             return View();
         }
-
+        //Test
         public ActionResult Contact()
         {
             ViewBag.Message = "Your contact page.";
